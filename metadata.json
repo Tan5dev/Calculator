@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Calculator",
+  "description": "Advanced Scientific & Engineering Computing Platform with symbolic algebra, 2D/3D graphing, matrices, calculus, statistics, complex numbers, and unit conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
